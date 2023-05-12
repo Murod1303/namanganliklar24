@@ -305,11 +305,11 @@ body {
 .site-footer {
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: #8ecb9c;
+    background-color: #7297ef;
 }
 .footer-top {
     padding-bottom: 30px;
-    border-bottom: 1px solid #f73d3d;
+    border-bottom: 1px solid #d1d1d1;
 }
 .footer-logo img {
     margin-bottom: 15px;
@@ -344,7 +344,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
-    color: #FFF;
+    color: #fff;
 }
 /* footer-top  finished  */
 
